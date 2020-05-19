@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "77876047149",
+    "firebase_url": "https://bafmobile-dev.firebaseio.com",
+    "project_id": "bafmobile-dev",
+    "storage_bucket": "bafmobile-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77876047149:android:6251d2f8c92731cdae77a4",
+        "android_client_info": {
+          "package_name": "com.baf.bafmobilenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77876047149-5khf5esidh5e49frlsefivrkv5dr0v6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baf.bafmobilenew",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "77876047149-4f7207a7ilubcjvdqe2jkbgnt65rscd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtwpDSpzTt0AJL86z-1BVzCEJVg0pF2bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77876047149-4f7207a7ilubcjvdqe2jkbgnt65rscd3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77876047149-ipmnn7d15mqg5udpbvefenuhn5it6q34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.bafmobilenew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77876047149:android:2e3e8f8837d30979ae77a4",
+        "android_client_info": {
+          "package_name": "com.bafnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77876047149-9iu7mbib61et1qdkb93vb6nba3oek91j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bafnotification",
+            "certificate_hash": "62128bb24669277620d725c93c9be05d999cc60d"
+          }
+        },
+        {
+          "client_id": "77876047149-4f7207a7ilubcjvdqe2jkbgnt65rscd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtwpDSpzTt0AJL86z-1BVzCEJVg0pF2bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77876047149-4f7207a7ilubcjvdqe2jkbgnt65rscd3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77876047149-ipmnn7d15mqg5udpbvefenuhn5it6q34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.bafmobilenew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
